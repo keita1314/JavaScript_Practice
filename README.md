@@ -14,4 +14,5 @@
 * Date new Date() object
 * Math new Date() object
 * ....
+
 判断基本类型最好用typeof 判断对象类型用最近一层的instanceof
